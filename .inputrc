@@ -1,0 +1,7 @@
+$include /etc/inputrc
+
+# Case-insensitive tab completion
+set completion-ignore-case on
+
+"\C-h": backward-kill-word
+"\e[3;5~": kill-word

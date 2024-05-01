@@ -1,0 +1,7 @@
+{
+  "keyMappings": "unmap f\nunmap j\nunmap h\nunmap l\nunmap k\nunmap gi\nunmap x\nunmap X\nunmap <a-m>\nunmap H\nunmap L\nunmap F\nunmap p\nunmap P\nunmap t\nunmap o\nunmap O\nunmap b\nunmap B\nunmap T\nunmap J\nunmap K\nunmap gT\nunmap gt\nunmap <c-e>\nunmap <c-y>\nunmap d\nunmap r\nunmap <a-f>\nunmap <a-m>\nunmap <a-p>\nunmap /\nunmap n\nunmap N\nunmap v\n\nmap i focusInput\nmap <A-k> LinkHints.activateMode\n\nmap <up> scrollUp\nmap <down> scrollDown\n\nmap <home> scrollToTop\nmap <end> scrollToBottom\n\nmap u goBack\nmap <C-z> goBack\nmap p openCopiedUrlInCurrentTab\nmap h goToRoot\n\nmap n previousTab\nmap m nextTab\n\nmap <A-t> Vomnibar.activateTabSelection",
+  "linkHintCharacters": "yuiophjklnm",
+  "ignoreKeyboardLayout": true,
+  "scrollStepSize": 140,
+  "settingsVersion": "2.1.2"
+}
